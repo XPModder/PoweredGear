@@ -1,0 +1,6 @@
+{
+  "item.poweredgear.powered_upgrade": "Powered Upgrade",
+  "trait.poweredgear.powered": "Powered",
+  "trait.poweredgear.powered.desc": "Items have a small internal energy storage equal to their durability and get repaired using the energy. Items will loose durability when the energy is empty.",
+  "part.poweredgear.powered_upgrade": "Powered Upgrade"
+}

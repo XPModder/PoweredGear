@@ -1,0 +1,11 @@
+{
+  "type": "poweredgear:powered",
+  "max_level": 1,
+  "cancels_with": [],
+  "name": {
+    "translate": "trait.poweredgear.powered"
+  },
+  "description": {
+    "translate": "trait.poweredgear.powered.desc"
+  }
+}
