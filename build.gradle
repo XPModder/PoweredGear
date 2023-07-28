@@ -160,7 +160,8 @@ dependencies {
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
 
-    runtimeOnly fg.deobf("direwolf20.charginggadgets:charginggadgets:1.9.0")
+    //Testing only
+    //runtimeOnly fg.deobf("direwolf20.charginggadgets:charginggadgets:1.9.0")
 
     implementation fg.deobf("net.silentchaos512:silent-lib:1.19.2-7.+") {
         exclude module: "forge"
